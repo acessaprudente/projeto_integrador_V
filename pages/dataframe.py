@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import altair as alt
 from dataset import df
 from PIL import Image
 from datetime import date, datetime
