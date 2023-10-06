@@ -1,4 +1,3 @@
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 blinker @ file:///croot/blinker_1696539051175/work
 Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
 brotlipy==0.7.0
